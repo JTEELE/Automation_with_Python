@@ -11,7 +11,9 @@
 #
 
 >### Overview: 
->> This script will *Read* & **Automate* raw financial data and automate the monthly performance summary. 
+>> This script will *Evaluate* & *Automate*  financial reporting efforts.
+
+>> This open source script can help any business owner visualize how Python can help their small business. 
 
 <img src="Images/small_business.jfif" align="right" width="350px"/>
 
