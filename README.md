@@ -1,4 +1,4 @@
->## *Automating Financial Reporting*   
+>## *Automating Financial Reporting for Small Businesses*   
 #
 
 <img src="Images/universe.jfif" align="center" width="300px"/>
@@ -15,7 +15,7 @@
 
 >> This open source script can help any business owner visualize how Python can help their small business.
 
->> Python can help a Company be more efficient with their resources and focus manual effort on more complicated tasks, reducing overhead & salary costs. 
+>> Python can help a Company be more efficient with their resources and focus manual effort on more complicated tasks, reducing overhead & salary costs, for example. 
 
 <img src="Images/small_business.jfif" align="right" width="350px"/>
 
